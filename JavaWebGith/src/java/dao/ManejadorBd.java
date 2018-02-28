@@ -11,4 +11,8 @@ package dao;
  */
 public class ManejadorBd {
     
+    public ManejadorBd(){
+    
+    }
+    
 }
